@@ -4,8 +4,8 @@
 
     public class RazorpayService
     {
-        private readonly string key = "rzp_test_YourKey";
-        private readonly string secret = "YourSecret";
+        private readonly string key = "rzp_test_TWvpm6grddGvoo";
+        private readonly string secret = "uMUifjgKHKK4UeADMsOZiDaW";
 
         public string CreateOrder(decimal amount)
         {
